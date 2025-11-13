@@ -39,7 +39,6 @@ require (
 	github.com/xtls/reality v0.0.0-20251014195629-e4eec4520535 // indirect
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba // indirect
 	golang.org/x/crypto v0.44.0 // indirect
-	golang.org/x/mobile v0.0.0-20251021151156-188f512ec823 // indirect
 	golang.org/x/mod v0.30.0 // indirect
 	golang.org/x/net v0.47.0 // indirect
 	golang.org/x/sync v0.18.0 // indirect
@@ -49,7 +48,6 @@ require (
 	golang.org/x/tools v0.39.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173 // indirect
-	google.golang.org/genproto v0.0.0-20251111163417-95abcf5c77ba // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251103181224-f26f9409b101 // indirect
 	google.golang.org/grpc v1.76.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
